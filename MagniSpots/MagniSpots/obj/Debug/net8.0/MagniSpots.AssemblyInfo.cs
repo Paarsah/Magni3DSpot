@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagniSpots")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54b1d7bbcf8f2ba58dd71f6f36ab7f8613451ac3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagniSpots")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagniSpots")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
