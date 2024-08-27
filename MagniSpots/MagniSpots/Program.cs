@@ -2,6 +2,7 @@
 using Avalonia.ReactiveUI;
 using System;
 using System.Collections.ObjectModel;
+using System.IO;
 
 namespace MagniSpots
 {
@@ -19,8 +20,10 @@ namespace MagniSpots
             => AppBuilder.Configure<App>()
                 .UsePlatformDetect()
                 .WithInterFont()
-                .LogToTrace()
                 .With(new Win32PlatformOptions { RenderingMode = new Collection<Win32RenderingMode> { Win32RenderingMode.Wgl } })
+                .LogToTrace()
                 .UseReactiveUI();
     }
+
 }
+

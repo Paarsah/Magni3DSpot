@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Project\\Magni3DSpot\\MagniSpots\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\app.setting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\app.setting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
@@ -13,6 +25,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\opentk\\avaloniakeyboardstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\opentk\\avaloniakeyboardstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\mainwindowglrendering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\mainwindowglrendering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\opentk\\basetkopenglcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\opentk\\basetkopenglcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\opentk\\avaloniatkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\opentk\\avaloniatkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|c:\\project\\magni3dspot\\magnispots\\magnispots\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A0A586-9CC9-40A4-8466-0FFEBC495EDD}|MagniSpots\\MagniSpots.csproj|solutionrelative:magnispots\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,38 +83,183 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\App.axaml.cs",
+              "RelativeDocumentMoniker": "MagniSpots\\App.axaml.cs",
+              "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\App.axaml.cs",
+              "RelativeToolTip": "MagniSpots\\App.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:27:46.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\app.manifest",
+              "RelativeDocumentMoniker": "MagniSpots\\app.manifest",
+              "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\app.manifest",
+              "RelativeToolTip": "MagniSpots\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-08-27T10:19:36.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MagniSpots\\Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MagniSpots\\Views\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:04:34.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "MagniSpots\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "MagniSpots\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:14:45.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseTkOpenGlControl.cs",
+              "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\OpenTK\\BaseTkOpenGlControl.cs",
+              "RelativeDocumentMoniker": "MagniSpots\\OpenTK\\BaseTkOpenGlControl.cs",
+              "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\OpenTK\\BaseTkOpenGlControl.cs",
+              "RelativeToolTip": "MagniSpots\\OpenTK\\BaseTkOpenGlControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:04:16.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AvaloniaTkContext.cs",
+              "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\OpenTK\\AvaloniaTkContext.cs",
+              "RelativeDocumentMoniker": "MagniSpots\\OpenTK\\AvaloniaTkContext.cs",
+              "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\OpenTK\\AvaloniaTkContext.cs",
+              "RelativeToolTip": "MagniSpots\\OpenTK\\AvaloniaTkContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:04:08.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AvaloniaKeyboardState.cs",
+              "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\OpenTK\\AvaloniaKeyboardState.cs",
+              "RelativeDocumentMoniker": "MagniSpots\\OpenTK\\AvaloniaKeyboardState.cs",
+              "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\OpenTK\\AvaloniaKeyboardState.cs",
+              "RelativeToolTip": "MagniSpots\\OpenTK\\AvaloniaKeyboardState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:03:55.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shader.cs",
+              "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\Shader.cs",
+              "RelativeDocumentMoniker": "MagniSpots\\Shader.cs",
+              "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\Shader.cs",
+              "RelativeToolTip": "MagniSpots\\Shader.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:00:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindowGLRendering.cs",
+              "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\MainWindowGLRendering.cs",
+              "RelativeDocumentMoniker": "MagniSpots\\MainWindowGLRendering.cs",
+              "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\MainWindowGLRendering.cs",
+              "RelativeToolTip": "MagniSpots\\MainWindowGLRendering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:53:24.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.setting.json",
+              "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\app.setting.json",
+              "RelativeDocumentMoniker": "MagniSpots\\app.setting.json",
+              "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\app.setting.json",
+              "RelativeToolTip": "MagniSpots\\app.setting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T12:55:54.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewLocator.cs",
+              "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\ViewLocator.cs",
+              "RelativeDocumentMoniker": "MagniSpots\\ViewLocator.cs",
+              "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\ViewLocator.cs",
+              "RelativeToolTip": "MagniSpots\\ViewLocator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:07:30.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\Program.cs",
               "RelativeDocumentMoniker": "MagniSpots\\Program.cs",
               "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\Program.cs",
               "RelativeToolTip": "MagniSpots\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T05:42:20.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "MagniSpots\\Views\\MainWindow.axaml",
               "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\Views\\MainWindow.axaml",
               "RelativeToolTip": "MagniSpots\\Views\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-26T05:39:33.25Z"
+              "WhenOpened": "2024-08-26T05:39:33.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "MagniSpots\\ViewModels\\MainWindowViewModel.cs",
               "ToolTip": "C:\\Project\\Magni3DSpot\\MagniSpots\\MagniSpots\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "MagniSpots\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T05:39:30.663Z"
+              "WhenOpened": "2024-08-26T05:39:30.663Z",
+              "EditorCaption": ""
             }
           ]
         }

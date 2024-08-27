@@ -3,11 +3,15 @@
         xmlns:vm="using:MagniSpots.ViewModels"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+		xmlns:rootns="clr-namespace:MagniSpots" 
+		mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="MagniSpots.Views.MainWindow"
         x:DataType="vm:MainWindowViewModel"
         Icon="/Assets/avalonia-logo.ico"
-        Title="MagniSpots">
+        Title="MagniSpots"
+		Width="800"
+		Height="600"
+		>
 
     <Design.DataContext>
         <!-- This only sets the DataContext for the previewer in an IDE,
@@ -15,6 +19,21 @@
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-    <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+	<DockPanel>
+		
+		<Grid>
+			<Grid ColumnDefinitions="*,Auto">
+
+				<rootns:MainWindowGLRendering Focusable="True" Name="AppControl" SelectedColor="{Binding SelectedColor}"/>
+				
+				<StackPanel HorizontalAlignment="Right" VerticalAlignment="Center">
+					
+                    <TextBlock Text="{Binding ControlTitle}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+					<ColorPicker Width="200" Height="30" Name="colorPicker" HorizontalAlignment="Right" Color="{Binding SelectedColor, Mode=TwoWay}"/>
+				
+				</StackPanel>
+			</Grid>
+		</Grid>
+	</DockPanel>
 
 </Window>
